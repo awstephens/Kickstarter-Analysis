@@ -10,17 +10,22 @@ Intent of the project was to identify successful Kickstarter campaigns as a new 
   7.  Theater events that failed asked for a median of $5,000, only recieving a median pledge amount of $103.
 
 Results/Data Visualization:
-![Count of Kickstarter Outcomes in the U.S. by Theater Art Form](C:\Users\awste\OneDrive\Documents\BootCamp_StudyFiles\Week1\Analysis\CountOfKickstarterOutcomesUSByTheaterArtForm.png)
- Graph 1: The proportion of Kickstarter Campaign Outcomes for the Theater Art Form in the U.S.
- 
-![Seasonality of Theater Kickstarter Campaign Outcomes by Month in the U.S.](C:\Users\awste\OneDrive\Documents\BootCamp_StudyFiles\Week1\Analysis\SeasonalityOfTheaterKickstarterCampainOutcomesByMonthUS.png)
- Graph 2: The seasonality trends of the theater kickstarter campaign outcomes by month in the U.S
+
+![CountOfKickstarterOutcomesUSByTheaterArtForm](https://user-images.githubusercontent.com/105992109/173254512-5adcd83f-67bd-4eb7-ae77-c8713f1cbe8b.png)
+
+Graph 1: The proportion of Kickstarter Campaign Outcomes for the Theater Art Form in the U.S.
+
+![SeasonalityOfTheaterKickstarterCampainOutcomesByMonthUS](https://user-images.githubusercontent.com/105992109/173254541-00bec573-98f5-4996-b915-bbf596c42b98.png)
+
+Graph 2: The seasonality trends of the theater kickstarter campaign outcomes by month in the U.S
  
 Table 1: The five theater plays from Great Britain, with a quick summary, that are the most similar to the one being proposed with their kickstarter results i.e. goal and pledge amount.
-![5 Similar Theater Plays From Great Britian with Quick Summary, Kickstarter Goal Amound and Pledge Amount](C:\Users\awste\OneDrive\Documents\BootCamp_StudyFiles\Week1\Analysis\SimilarTheaterPlayGreatBritain.png)
- 
-Table 2: The distribution of U.S. theater Kickstarter campaign's successful vs. failed outcomes with goal and pledged Money.
-![Distribution of U.S. Theater Kickstarter Campaigns with Goal and Pledged Money Successful vs. failed](C:\Users\awste\OneDrive\Documents\BootCamp_StudyFiles\Week1\Analysis\USTheaterKickstarterCampaignDistributionSuccessfulVFailed.png)
+
+![SimilarTheaterPlayGreatBritain](https://user-images.githubusercontent.com/105992109/173254568-3b9288d6-1420-41cf-b0dc-a4dc3d295301.png)
+
+Table 2: The distribution of U.S. theater Kickstarter campaign's successful vs. failed outcomes with goal and pledged money.
+
+![USTheaterKickstarterCampaignDistributionSuccessfulVFailed](https://user-images.githubusercontent.com/105992109/173254589-a6718006-3fd7-429e-9fcf-9b47c8c27273.png)
 
 Discussion:
 From the analysis conducted, the recommendation for a theatrical play Kickstarter campaign, to be successful, is to conduct it between April and July. It would also behoove the host of the proposed campaign to ask for a donation amount in the range of $2500 - $3000. The reason for this is the $2500 amount is what similar plays suceeded on in Great Britain (once the currency was converted from Pounds Sterling to Dollars) and the $3000 was the median of what succeded in the U.S. The trend towards a failing campaign occurs quickly in the distribution as failing campaigns asked for a median of $5000. Hence, a proposed theatrical play with a budget of 12,000 should not try to obtain all of this through Kickstarter. Future Kickstarter campaigns with the theater-play art form and a budget of 12,000 should only expect to obtain about 20-25% of their budget through Kickstarter.   
