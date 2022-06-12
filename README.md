@@ -13,15 +13,21 @@ Results/Data Visualization:
 
 ![CountOfKickstarterOutcomesUSByTheaterArtForm](https://user-images.githubusercontent.com/105992109/173254512-5adcd83f-67bd-4eb7-ae77-c8713f1cbe8b.png)
 
-Graph 1: The proportion of Kickstarter Campaign Outcomes for the Theater Art Form in the U.S.
+Graph 1: Proportion of theater Kickstarter campaign outcomes in the U.S.
+
+
 
 ![SeasonalityOfTheaterKickstarterCampainOutcomesByMonthUS](https://user-images.githubusercontent.com/105992109/173254541-00bec573-98f5-4996-b915-bbf596c42b98.png)
 
-Graph 2: The seasonality trends of the theater kickstarter campaign outcomes by month in the U.S
- 
+Graph 2: Seasonality of theater Kickstarter campaign outcomes by month in the U.S
+
+
+
 Table 1: The five theater plays from Great Britain, with a quick summary, that are the most similar to the one being proposed with their kickstarter results i.e. goal and pledge amount.
 
 ![SimilarTheaterPlayGreatBritain](https://user-images.githubusercontent.com/105992109/173254568-3b9288d6-1420-41cf-b0dc-a4dc3d295301.png)
+
+
 
 Table 2: The distribution of U.S. theater Kickstarter campaign's successful vs. failed outcomes with goal and pledged money.
 
