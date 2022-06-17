@@ -1,6 +1,15 @@
 # An Analysis of Kickstarter Campaigns
-6.12.2022: UC Davis; Week 1: Excel Project
-Intent of the project was to identify successful Kickstarter campaigns as a new project that is being proposed is a $12,000 theater-play event. The analysis of kickstarter campaigns focused on previous theater events in the U.S., particulalry how many were successful and what was their initial goal vs. what was pledged. The data for this analysis was provided by UC-Davis and occurs between 2009 and 2017. Findings include
+6.16.2022: UC Davis; Week 1: Excel Project.
+
+Overview:
+Kickstarter is an American based Public Benefit Corporation that is unique because it is a crowdfunding platform that helps artists finance their creative projects. Between 2008 and 2013 the platform has provided $775 million for more than 48,000 projects (Canadian Radio Broadcasting Commission, 2013). As stated on the Kickstarter website the goal is, "We [Kickstarter] don't want world elites and entertainment executives to define our culture, we want creative people--even those who've never made anything before to take the wheel. We help creators connect directly to their communities, putting power where it belongs." (Kickstarter.com, 2022). With this focus in mind, their is a breadth of data created by Kickstarter that can be analyzed to see the patterns of successfully funded projects. This is important as it determines the scale/how elaborate projects should be and what dollar amount to expect from crowdfunding.
+
+Purpose:
+An artistic project that was proposed was a $12,000 theater-play event with the question of being "how much financing should the owner of the project expect to recieve from a Kickstarter campaign?" An analysis of kickstarter campaigns was conducted with much consideration to previous theater events, from wolrdwide to specific regions (notably the U.S. and U.K). The indicator that was consider significant, and dependent, was "outcome", decidedly how many were Kickstarter campaign outcomes were "successful" vs. "failed" vs. canceled. Further analysis went into what was the Kickstarter campaign's initial dollar goal against what was the dollar amount pledged. Lastly, seasonality was considedered. Trends in the data did occur for "successful" campaign's with respect to goal dollar amount and seasonality. The data for this analysis was provided by UC-Davis and occurs between 2009 and 2017 (UC Davis, 2022). 
+
+Findings include
+  * Significance of Launch Date
+  * Significance of Goals 
   1. Theater events in the U.S. reach their target goal on kickstarter  57.5% of the time
   2. Plays in the U.S. reach their targe goal 61.4% of the time
   3. The time of year that successful campaigns occur is late spring, early summer -- April thru July (62.8%, 66.9%, 65.4%, 63.0%) 
