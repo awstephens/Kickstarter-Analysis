@@ -1,13 +1,39 @@
 # An Analysis of Kickstarter Campaigns
-6.16.2022: UC Davis; Week 1: Excel Project.
+Identifying Successful Trends for a Proposed 12,000 Theater Kickstarter Theater Campaign
+6/16/2022
+
 
 Overview:
+
 Kickstarter is an American based Public Benefit Corporation that is unique because it is a crowdfunding platform that helps artists finance their creative projects. Between 2008 and 2013 the platform has provided $775 million for more than 48,000 projects (Canadian Radio Broadcasting Commission, 2013). As stated on the Kickstarter website the goal is, "We [Kickstarter] don't want world elites and entertainment executives to define our culture, we want creative people--even those who've never made anything before to take the wheel. We help creators connect directly to their communities, putting power where it belongs." (Kickstarter.com, 2022). With this focus in mind, their is a breadth of data created by Kickstarter that can be analyzed to see the patterns of successfully funded projects. This is important as it determines the scale/how elaborate projects should be and what dollar amount to expect from crowdfunding.
 
+
 Purpose:
+
 An artistic project that was proposed was a $12,000 theater-play event with the question of being "how much financing should the owner of the project expect to recieve from a Kickstarter campaign?" An analysis of kickstarter campaigns was conducted with much consideration to previous theater events, from wolrdwide to specific regions (notably the U.S. and U.K). The indicator that was consider significant, and dependent, was "outcome", decidedly how many were Kickstarter campaign outcomes were "successful" vs. "failed" vs. canceled. Further analysis went into what was the Kickstarter campaign's initial dollar goal against what was the dollar amount pledged. Lastly, seasonality was considedered. Trends in the data did occur for "successful" campaign's with respect to goal dollar amount and seasonality. The data for this analysis was provided by UC-Davis and occurs between 2009 and 2017 (UC Davis, 2022). 
 
-Findings include
+
+Analysis:
+
+Analysis of the Kickstarter data was conducted by Microsoft Excel with tutorial material from (UC Davis). Tools used were data tab sorts, conditional formatting, excel functions, pivot tables, and graphs from pivot tables. "Headscratcher moment" was formatting the pivot table to provide Launch Date in months instead of years or quarters. Trick is to format privot table in the PivotChart Fields -- Axis, removing both year and quarter which leaves only months (See Pivot Table Formatting Before and After Below, Figure 1 and Figure 2). Other "moment of confusion" was why summary table of successful vs. failed vs. canceled campaigns did not add up to the amount of entries in the original table, reason: need to add in the greater than equals sign and less than equals sign as many Kickstarter goals were rounded figures (i.e. goal was set at 10,000 not 9995", see figure 3.)
+
+
+Figure 1: Before formatting Axis (Categories) in Pivot Chart Fields for Pivot Chart
+
+![PivotTableFormattingBefore](https://user-images.githubusercontent.com/105992109/174227543-24b1ae04-61a2-4cab-ae12-e79a9242b13d.png)
+
+
+Figure 2: After formatting Axis (Categories) in Pivot Chart Fields for Pivot Chart
+
+![PivotTableFormattingAfter](https://user-images.githubusercontent.com/105992109/174227559-0e1ad914-6585-431d-adf0-d9a1e33a1ab8.png)
+
+
+Figure 3: In the excel formula the greater than equals sign is key to set the parameters right for the summary table
+
+![ImportanceOfGreaterThanEqualsSign](https://user-images.githubusercontent.com/105992109/174227893-4bf55c5f-6e2a-41b9-abed-345952e770ef.png)
+
+
+
   * Significance of Launch Date
   * Significance of Goals 
   1. Theater events in the U.S. reach their target goal on kickstarter  57.5% of the time
