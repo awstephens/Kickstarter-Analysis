@@ -85,3 +85,11 @@ The dataset provided is limited by the fact it is not recent. Trends in the last
 If a deeper analysis was to be conducted identify donation amounts and number of donors is a good place to start. This is because if a grass-roots advertising campaign was to be used in concert with the Kickstarter campaign it would identify the expected amount of money provided by a donor. Should the Kickstarter campaign manager try to get several big donations or many small donations to achieve the financial goal. Based on this, the manager would have an idea of what events to go to to generate support and financial backing for the proposed theatrical play. 
 
 Another aspect that deserves further analysis is if there are key words, or phrases, in the blurb that correlates with successful campaigns. Certain themes might capture the Zeitgeist of the time period and it reflects by being demanded through funding.
+
+References
+
+Canadian Radio Broadcasting Commission, 2013. The Canadian Press. "Kickstarter Crowdfunding Site Officially Launches in Canada". Posted Sep 10, 2013. Accessed June 16, 2022.  https://www.cbc.ca/news/business/kickstarter-crowdfunding-site-officially-launches-in-canada-1.1703774
+
+Kickstarter.com, 2022. Kickstarter, PBC. "Our Mission is to Help Bring Creative Projects to Life". Copywrite 2022. Accessed June 16, 2022. https://www.kickstarter.com/about
+
+UC Davis, 2022. Course: "Bootcamp: UCD-VIRT-DATA-PT-06-2022-U-B-TTH". Module 1: Kickstarting with Excel. Accessed June 1, 2022. https://courses.bootcampspot.com/courses/2512/pages/1-dot-1-3-download-the-kickstarter-data?module_item_id=635736  
