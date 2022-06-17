@@ -33,7 +33,7 @@ Figure 2: After formatting Axis (Categories) in Pivot Chart Fields for Pivot Cha
 Figure 3: In the excel formula the greater than equals sign is key to set the parameters right for the summary table
 
 
-![ImportanceOfGreaterThanEqualsSign](https://user-images.githubusercontent.com/105992109/174227893-4bf55c5f-6e2a-41b9-abed-345952e770ef.png)
+![ImportanceOfGreaterThanEqualsSign](https://user-images.githubusercontent.com/105992109/174236703-f97376d7-008d-4d0d-80b2-4bb49c3caed9.png)
 
 
 
